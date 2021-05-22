@@ -1,6 +1,6 @@
-### Bienvenue 👋
+### Salutations !
 
-Je me prénomme Antoine, je suis actuellement Lycéen & Administrateur de [Salwyrr](https://www.salwyrr.com/)
+Je m'appele Antoine, je suis actuellement Lycéen & Administrateur de [Salwyrr](https://www.salwyrr.com/)
 
 ### Contact
 
