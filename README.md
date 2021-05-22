@@ -2,13 +2,13 @@
 
 Je m'appele Antoine, je suis actuellement Lycéen & Administrateur de [Salwyrr](https://www.salwyrr.com/)
 
-### Contact
+### - Contact -
 
 * Twitter: @Charpentemars1
 * Discord: Charpentemars#9183
 * Email: [contact@charpentemars.tech](mailto:contact@charpentemars.tech) 
 
-### Salwyrr
+### - Salwyrr -
 
 * Site: https://www.salwyrr.com/
 * Discord: https://discord.gg/uWXbVxR
