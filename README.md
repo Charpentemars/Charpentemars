@@ -13,8 +13,11 @@ def Charpentemars():
 
 ## Tools & Programming languages I use 💻
 <a href="#" target="_blank">
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" style="margin-bottom: 5px;"/>
-
+<img alt="Python" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+<img alt="PyCharm" width="35px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
+<img alt="VisualStudioCode" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />  
+<img alt="Photoshop" width="35px" src="https://www.maison-image.fr/wp-content/uploads/2019/09/Photoshop.png" />
+  
 ## Work for Salwyrr 💼
 <a href="https://github.com/Salwyrr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
