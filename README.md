@@ -5,7 +5,7 @@
 def Charpentemars():
   print('Name : Antoine')
   print('Age : 17')
-  print('Place of study : Lycée Woillez')
+  print('Place of study : ULCO')
   print('Location : Hauts de France,France')
   print('Interests : "Development", "Video games", "Shingeki no Kyojin"')
   print('Occupation : Administrator of Salwyrr')
