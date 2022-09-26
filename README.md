@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23477BF7&lines=%F0%9F%91%8B+Hi+!+Im+Antoine.)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23477BF7&lines=%F0%9F%91%8B+Hi+!+Im+Antoine.)](https://git.io/typing-svg)
 ---
 🔖 “Computing save a lot of time... provided you have a lot of it in front of you!” ~Mireille Sitbon
 ```py
