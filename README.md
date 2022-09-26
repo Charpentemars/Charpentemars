@@ -4,17 +4,19 @@
 ```py
 def Charpentemars():
   print('Name : Antoine')
-  print('Age : 17')
+  print('Age : 18')
   print('Place of study : ULCO')
   print('Location : Hauts de France,France')
   print('Interests : "Development", "Video games", "Shingeki no Kyojin"')
-  print('Occupation : Administrator of Salwyrr')
+  print('Occupation : "Administrator of Salwyrr", "Studient in Science Computing"')
 ```
 
 ## Tools & Programming languages I use 💻
 <a href="#" target="_blank">
 <img alt="Python" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img alt="PyCharm" width="35px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
+<img alt="HTML5" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+<img alt="Css" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-1024px-CSS3_logo_and_wordmark.svg.png" />
+
 <img alt="VisualStudioCode" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />  
 <img alt="Photoshop" width="35px" src="https://www.maison-image.fr/wp-content/uploads/2019/09/Photoshop.png" />
   
