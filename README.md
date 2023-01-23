@@ -13,12 +13,16 @@ def Charpentemars():
 
 ## Tools & Programming languages I use 💻
 <a href="#" target="_blank">
-<img alt="Python" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img alt="HTML5" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
-<img alt="Css" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-1024px-CSS3_logo_and_wordmark.svg.png" />
-
-<img alt="VisualStudioCode" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />  
-<img alt="Photoshop" width="35px" src="https://www.maison-image.fr/wp-content/uploads/2019/09/Photoshop.png" />
+<img alt="VisualStudioCode" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img alt="WebStorm" width="50px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
+<img alt="PyCharm" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
+<img alt="Clion" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" />
+<br>
+<br>
+<img alt="HTML5" width="50px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" />
+<img alt="Css" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />
+<img alt="Python" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
+<img alt="c++" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-512.png" />
   
 ## Work for Salwyrr 💼
 <a href="https://github.com/Salwyrr" target="_blank">
