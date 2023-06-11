@@ -5,9 +5,11 @@
 ```
 
   Hi I'm Antoine,<br>
-  I am 18 years old and I am studying Computer Science at ULCO.<br>
+  I am 18 years old and I am studying Computer Science at Lycée & Campus Saint Joseph.<br>
   <br>
-  I also work in my free time for @Salwyrr as French administrator.
+  @Salwyrr - Admin<br>
+  @Moonsworth - QA Tester<br>
+  @Blocaste - Staff
 
 ## 💻 Tools & Programming languages I use 
 <a href="#" target="_blank">
