@@ -6,10 +6,7 @@
 
   Hi I'm Antoine,<br>
   I am 18 years old and I am studying Computer Science at Lycée & Campus Saint Joseph.<br>
-  <br>
-  @Salwyrr - Admin<br>
-  @Moonsworth - QA Tester<br>
-  @Blocaste - Staff
+  
 
 ## 💻 Tools & Programming languages I use 
 <a href="#" target="_blank">
@@ -25,13 +22,11 @@
 <img alt="Python" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
 <img alt="c++" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-512.png" />
   
-## 💼 Work for Salwyrr 
-
-<a href="https://github.com/Salwyrr"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://twitter.com/SalwyrrLauncher"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<a href="mailto:alexandre@salwyrr.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://discord.gg/salwyrr"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://www.youtube.com/salwyrr"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+## 💼 Work
+  
+@Salwyrr - Admin (04/05/20 - now)<br>
+@Moonsworth - QA Tester (06/09/23 - now)<br>
+@Blocaste - Staff (04/06/23 - now)
 
 ## 🤔 Where to find me ?
 
