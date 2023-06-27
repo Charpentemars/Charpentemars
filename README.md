@@ -25,7 +25,7 @@
 ## 💼 Work
   
 @Salwyrr - Admin (04/05/20 - now)<br>
-@Moonsworth - QA Tester (06/09/23 - now)<br>
+@Moonsworth - Staff (06/09/23 - now)<br>
 @Blocaste - Staff (04/06/23 - now)
 
 ## 🤔 Where to find me ?
