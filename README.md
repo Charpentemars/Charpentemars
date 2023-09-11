@@ -10,6 +10,7 @@
 
 ## 💻 Tools & Programming languages I use 
 <a href="#" target="_blank">
+<img alt="VisualStudio" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
 <img alt="VisualStudioCode" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img alt="WebStorm" width="50px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
 <img alt="PyCharm" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
@@ -26,7 +27,7 @@
   
 @Salwyrr - Admin (04/05/20 - now)<br>
 @Moonsworth - QA Tester and Translator (06/09/23 - now)<br>
-@Blocaste - Staff (04/06/23 - now)
+@Blocaste - Admin (04/06/23 - now)
 
 ## 🤔 Where to find me ?
 
