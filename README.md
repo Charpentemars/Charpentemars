@@ -12,9 +12,9 @@
 <a href="#" target="_blank">
 <img alt="VisualStudio" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" />
 <img alt="VSCode" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
-<img alt="WebStorm" width="50px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
-<img alt="PyCharm" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
-<img alt="Clion" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" />
+<img alt="WebStorm" width="50px" src="https://cdn.discordapp.com/attachments/1063884774646747228/1154107549591810128/WebStorm-Dark.png" />
+<img alt="PyCharm" width="50px" src="https://cdn.discordapp.com/attachments/1063884774646747228/1154107549373702184/PyCharm-Dark.png" />
+<img alt="Clion" width="50px" src="https://cdn.discordapp.com/attachments/1063884774646747228/1154107549130440754/CLion-Dark.png" />
 <img alt="CMake" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" />
 <br>
 <br>
