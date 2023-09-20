@@ -17,12 +17,14 @@
 <img alt="Clion" width="50px" src="https://cdn.discordapp.com/attachments/1063884774646747228/1154107549130440754/CLion-Dark.png" />
 <img alt="CMake" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" />
 <br>
-<br>
 <img alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
 <img alt="Css" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 <img alt="Python" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
 <img alt="c" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
 <img alt="csharp" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
+<br>
+<img alt="Wordpress" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" />
+
 
 ## 💼 Work
   
