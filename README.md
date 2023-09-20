@@ -15,7 +15,7 @@
 <img alt="WebStorm" width="50px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
 <img alt="PyCharm" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
 <img alt="Clion" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" />
-<img alt="CMake" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-cmake.svg/langfr-800px-Breezeicons-apps-48-cmake.svg.png" />
+<img alt="CMake" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" />
 <br>
 <br>
 <img alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
