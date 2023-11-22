@@ -15,6 +15,7 @@
 <img alt="WebStorm" width="50px" src="https://cdn.discordapp.com/attachments/1063884774646747228/1154107549591810128/WebStorm-Dark.png" />
 <img alt="PyCharm" width="50px" src="https://cdn.discordapp.com/attachments/1063884774646747228/1154107549373702184/PyCharm-Dark.png" />
 <img alt="Clion" width="50px" src="https://cdn.discordapp.com/attachments/1063884774646747228/1154107549130440754/CLion-Dark.png" />
+<img alt="Rider" width="50px" src="https://cdn.discordapp.com/attachments/1063884774646747228/1176856080618377346/Rider-Dark.png" />
 <img alt="CMake" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" />
 <br>
 <img alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
