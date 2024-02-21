@@ -20,11 +20,14 @@
 <br>
 <img alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
 <img alt="Css" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+<img alt="js" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+<img alt="php" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
 <img alt="Python" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
 <img alt="c" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
 <img alt="csharp" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
 <br>
 <img alt="Wordpress" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" />
+
 
 
 ## 💼 Work
