@@ -5,7 +5,7 @@
 ```
 
   Hi I'm Antoine,<br>
-  I am 19 years old and I am studying Computer Science at Lycée & Campus Saint Joseph.<br>
+  I am 20 years old and I am studying Computer Science at Lycée & Campus Saint Joseph.<br>
   
 
 ## 💻 Tools & Programming languages I use 
