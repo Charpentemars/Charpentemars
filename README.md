@@ -35,11 +35,11 @@
 
 ## 💼 Work
   
-@TheGreenSuits - Web Developer (11/03/24 - 10/11/24)<br>
 @LunarClient - QA Tester and Translator (06/09/23 - now)<br>
 @Blocaste - Admin (04/06/23 - now)<br>
 @Salwyrr - Admin (04/05/20 - now)<br>
 
+@TheGreenSuits - Web Developer (11/03/24 - 10/11/24)<br>
 @Netcord - Creating a Minecraft tournament for the GP Explorer (05/06/23 - 30/06/23) 
 
 ## 🤔 Where to find me ?
