@@ -5,7 +5,7 @@
 ```
 
   Hi I'm Antoine,<br>
-  I am 20 years old and I am studying Computer Science at Lycée & Campus Saint Joseph.<br>
+  I am 21 years old and I am studying Computer Science at Lycée & Campus Saint Joseph.<br>
   
 
 ## 💻 Tools & Programming languages I use 
@@ -34,15 +34,6 @@
 
 
 ## 💼 Work
-  
-@LunarClient - QA Tester and Translator (06/09/23 - now)<br>
-@Blocaste - Admin (04/06/23 - now)<br>
-@Salwyrr - Admin (04/05/20 - now)<br>
 
-@TheGreenSuits - Web Developer (11/03/24 - 10/11/24)<br>
-@Netcord - Creating a Minecraft tournament for the GP Explorer (05/06/23 - 30/06/23) 
-
-## 🤔 Where to find me ?
-
-<a href="https://github.com/Charpentemars"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://twitter.com/Charpentemars"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+@Nausicaa - IT Project Coordinator Apprentice (01/09/25 - now)<br>
+@LunarClient - QA Tester (06/09/23 - now)<br> 
