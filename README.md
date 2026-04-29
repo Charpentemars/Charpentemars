@@ -8,12 +8,12 @@
 ---
 ### 🚀 Projects
 
-- 🌐 **Intranet (NAUSICAA)** – Project coordination and management for the corporate internal portal. – *in progress*<br>
-- 🦭 **Zalophus (NAUSICAA)** – Development of custom modules for internal business applications.<br>
-- 📈 **Demographic Counter (NAUSICAA)** – Design and creation of a real-time flow tracking tool using *Worldometer* data.<br><br>
+・🌐 **Intranet (NAUSICAA)** – Project coordination and management for the corporate internal portal. – *in progress*<br>
+・🦭 **Zalophus (NAUSICAA)** – Development of custom modules for internal business applications.<br>
+・📈 **Demographic Counter (NAUSICAA)** – Design and creation of a real-time flow tracking tool using *Worldometer* data.<br><br>
 
-- 📝 **QA Testing (LunarClient)** - Independent QA Tester for Moonsworth (bug tracking and performance testing).<br>
-- ⛏️ **Minecraft Event Engineering (GP Explorer, MineStrator, Ascentia, ...)** - Organization and creation of immersive in-game experiences and interactive events for major partners.
+・📝 **QA Testing (LunarClient)** - Independent QA Tester for Moonsworth (bug tracking and performance testing).<br>
+・⛏️ **Minecraft Event Engineering (GP Explorer, MineStrator, Ascentia, ...)** - Organization and creation of immersive in-game experiences and interactive events for major partners.
 
 ---
 
