@@ -11,7 +11,7 @@
 ・📈 **Demographic Counter (NAUSICAA)** – Design and creation of a real-time flow tracking tool using *Worldometer* data.<br><br>
 
 ・📝 **QA Testing (LunarClient)** - Independent QA Tester for Moonsworth (bug tracking and performance testing).<br>
-・⛏️ **Minecraft Event Engineering (GP Explorer, MineStrator, ...)** - Organization and creation of immersive in-game experiences and interactive events for major partners.
+・⛏️ **Event Engineering (GP Explorer, MineStrator, ...)** - Organization and creation of immersives and interactive events for major partners.
 
 ---
 
