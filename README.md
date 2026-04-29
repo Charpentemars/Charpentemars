@@ -2,8 +2,6 @@
 
 ・🎓 Student of **IT Project Coordinator** at **Sup de Vinci**.<br>
 ・💻 **Full-Stack** Developer with a strong interest in low-level systems and software architecture experience. <br>
-・⚙️ Currently focused on low-level systems development, and web/mobile projects. <br>
-・🐧 Passionate **Linux** user.
 
 ---
 ### 🚀 Projects
@@ -13,7 +11,7 @@
 ・📈 **Demographic Counter (NAUSICAA)** – Design and creation of a real-time flow tracking tool using *Worldometer* data.<br><br>
 
 ・📝 **QA Testing (LunarClient)** - Independent QA Tester for Moonsworth (bug tracking and performance testing).<br>
-・⛏️ **Minecraft Event Engineering (GP Explorer, MineStrator, Ascentia, ...)** - Organization and creation of immersive in-game experiences and interactive events for major partners.
+・⛏️ **Minecraft Event Engineering (GP Explorer, MineStrator, ...)** - Organization and creation of immersive in-game experiences and interactive events for major partners.
 
 ---
 
